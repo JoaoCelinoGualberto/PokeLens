@@ -1,27 +1,34 @@
-# PokeLens
+## 📝Sobre
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+O Projeto **PokeLens** é uma interface One Page criada com o intuito de consumir a API **PokeAPI V2** trazendo informações sobre os Pokemons.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀Tecnologias utilizadas
 
-## Code scaffolding
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Angular 11.2.11](https://angular.io/)
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 📦Como baixar e executar o projeto
 
-## Running unit tests
+```bash
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#Clonar o repositório
+$ git clone https://github.com/JoaoCelinoGualberto/PokeLens.git
 
-## Running end-to-end tests
+#Entrar no diretório
+$ cd PokeLens
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+#Instalar as dependências
+$ yarn/npm install
 
-## Further help
+#Inicializar o projeto
+$ yarn/npm start
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+Desenvolvido por João Celino Gualberto ✅

@@ -1,0 +1,178 @@
+.c_pokemon-info-card-general {
+  font-family: 'Nunito';
+  font-style: normal;
+}
+
+
+.c_pokemon-info-card__title {
+  position: relative;
+  width: 198px;
+  height: 48px;
+  left: 3%;
+  margin-top: 2%;
+
+
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 48px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #233674;
+}
+
+
+.c_pokemon-info-card__code {
+  position: relative;
+  width: 45px;
+  height: 30px;
+  left: 3%;
+  display: inline;
+
+
+
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #233674;
+}
+
+/* Pagination */
+
+pagination-controls {
+  text-align: center;
+}
+
+.c_pokemon-info-card__type {
+
+  position: relative;
+  width: 49px;
+  height: 30px;
+  left: 60%;
+  display: inline;
+
+
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #233674;
+}
+
+
+.c_pokemon-info-card__description {
+  position: relative;
+  width: 100px;
+  height: 30px;
+  left: 3%;
+  margin-top: 1%;
+
+
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 30px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #233674;
+}
+
+
+.c_pokemon-info-card__content {
+  position: relative;
+  width: 548px;
+  height: 66px;
+  left: 3%;
+
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 30px;
+
+  color: #233674;
+
+}
+
+.c_pokemon-info-card__content-items {
+  position: relative;
+  width: 548px;
+  height: 66px;
+  top: 18px;
+  left: 3%;
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 30px;
+
+  color: #233674;
+}
+
+.c_pokemon-info-card__group {
+  top: 8%;
+  position: relative;
+  display: inline-block;
+}
+
+.c_pokemon-info-card__type--fogo {
+  background-color: #F7802A;
+
+}
+
+.c_pokemon-info-card__type--right {
+  position: relative;
+  left: 80%;
+
+}
+
+.c_pokemon-info-card__progress-bar1 {
+  height: 15px;
+  width: 200px;
+  background-color: #C4F789;
+  right: -30%;
+  position: relative;
+  display: inline-block;
+}
+
+.c_pokemon-info-card__progress-bar2 {
+  height: 15px;
+  width: 140px;
+  background-color: #F7802A;
+  right: -27%;
+  position: relative;
+  display: inline-block;
+}
+
+.c_pokemon-info-card__progress-bar3 {
+  height: 15px;
+  width: 200px;
+  background-color: #49D0B0;
+  right: -22%;
+  position: relative;
+  display: inline-block;
+}
+
+.c_pokemon-info-card__progress-bar4 {
+  height: 15px;
+  width: 200px;
+  background-color: #EA686D;
+  right: -27%;
+  position: relative;
+  display: inline-block;
+}
+
+.c_pokemon-info-card-img {
+  left: 120%;
+
+  position: relative;
+  display: inline-block;
+  vertical-align: bottom;
+}
